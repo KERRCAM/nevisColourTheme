@@ -1,0 +1,21 @@
+{
+  "name": "nevis-colour-theme",
+  "displayName": "Nevis Colour Theme",
+  "description": "Custom VS code colour theme - editor + highlighting",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nevis Colour Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nevis Colour Theme-color-theme.json"
+      }
+    ]
+  }
+}
