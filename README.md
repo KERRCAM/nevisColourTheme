@@ -1,16 +1,20 @@
-# nevis-colour-theme README
+# Nevis Colour Theme
 
-## Working with Markdown
+Nevis is a dark mode VS code theme.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Language support
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Currently supports the following languages / file formats:
 
-## For more information
+* C
+* JSON
+* MarkDown
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+In the future support is likely to be added for the following:
 
-**Enjoy!**
+* Java
+* C++
+* C#
+* Python
+* Haskell
+* Rust
